@@ -1,4 +1,4 @@
 # DEPLOYED MACHINE LEARNING  MODEL WITH DJANGO
-### A simple disease classification webapp for classifying several disease base on input data.
+### A simple tourist prediction webapp for predicting numbers tourist to visit a particular at a given period.
 ### Live App
 [Lets goto webapp](https://touristpredapp.herokuapp.com/)
